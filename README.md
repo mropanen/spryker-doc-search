@@ -1,0 +1,1 @@
+git clone https://github.com/spryker/spryker-docs.git data/spryker-docs/
