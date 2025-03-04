@@ -14,3 +14,9 @@ wheels/
 
 # Data
 data/spryker-docs/
+
+# Storage
+storage/
+
+# .env
+.env
